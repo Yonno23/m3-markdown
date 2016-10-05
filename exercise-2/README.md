@@ -6,9 +6,9 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-|Pyschology 101  | Informatics 201| Fig    |
-|----------------|---------------:|-------:|
-|_Female teacher_|_Male_          |_Female_|
-|3432423         |4332423         |324234  |
+|Course Number | Course Title| Instructor|
+|-------------:|------------:|----------:|
+|*123456*|_Informatics_|Male|
+|*789123*|_Phsychology_|Female|
 
 
