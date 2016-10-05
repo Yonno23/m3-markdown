@@ -10,11 +10,11 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 
 See `complete` branch for answers.
 
-git push 
+*Git Push"
 ========
 Git Push sends the most recently saved version of your document upstream to the repository that you cloned. 
 
-1. Pushe
+1. Push
 
 	-Enter into the command line; git push
 
