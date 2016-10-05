@@ -14,8 +14,8 @@ git push
 ========
 Git Push sends the most recently saved version of your document upstream to the repository that you cloned. 
 
-1. Pushes
+1. Pushe
 
-	Enter into the command line; git push
+	-Enter into the command line; git push
 
-	Data is then sent to the repository of choice
+	-Data is then sent to the repository of choice
