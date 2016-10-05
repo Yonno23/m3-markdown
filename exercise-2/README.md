@@ -6,7 +6,7 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-|Course Number | Course Title| Instructor|
+|Course Number | _Course Title_| Instructor|
 |-------------:|------------:|----------:|
 |**123456**|_Informatics_|Male|
 |**789123**|_Phsychology_|Female|
