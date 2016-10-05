@@ -9,3 +9,10 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+git push 
+========
+Git Push sends the most recently saved version of your document upstream to the repository that you cloned. 
+1. Pushes
+	-Enter into the command line; git push
+	-Data is then sent to the repository of choice
