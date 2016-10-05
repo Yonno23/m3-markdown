@@ -8,7 +8,7 @@ See `complete` branch for answers.
 
 |Course Number | Course Title| Instructor|
 |-------------:|------------:|----------:|
-|*123456*|_Informatics_|Male|
-|*789123*|_Phsychology_|Female|
+|**123456**|_Informatics_|Male|
+|**789123**|_Phsychology_|Female|
 
 
