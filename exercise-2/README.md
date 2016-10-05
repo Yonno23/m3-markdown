@@ -7,9 +7,8 @@ In the space below, make a three column table of the current courses you are tak
 See `complete` branch for answers.
 
 |Pyschology 101  | Informatics 201| Fig    |
-
+|----------------|---------------:|-------:|
 |_Female teacher_|_Male_          |_Female_|
-
 |3432423         |4332423         |324234  |
 
-Nick is bad at Fifa 16 
+
